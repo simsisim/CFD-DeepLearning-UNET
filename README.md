@@ -3,7 +3,7 @@ This is a research code (not a production level software), inspired by: O Hennig
 
 Implementation using TensorFlow 2.2.X, Python 3.x and Juypter Notebook.
 
-## U-Net Architecture
+## U-Net Architecture (Prediction Network)
 ![](plots/Unet_architecture.png)
 
 
