@@ -4,5 +4,5 @@ This is a research code (not a production level software) inspired by: O Hennigh
 Implementation using Keras x, TensorFlow 2.2.4, Python 3.x and Juypter Notebook.
 
 ## Presentation
-![test](/report/v01_CFD-DeepNet/solvingEng_CFD+DL/presentation_1.pdf)
+![Presentation: Solving Complex Eng. Problems with CFD and DL](/report/v01_CFD-DeepNet/solvingEng_CFD+DL/presentation_1.pdf)
 
