@@ -3,6 +3,10 @@ This is a research code (not a production level software) inspired by: O Hennigh
 
 Implementation using Keras x, TensorFlow 2.2.X, Python 3.x and Juypter Notebook.
 
+## Presentation:
+![](report/v01_CFD-DeepNet/solvingEng_CFD+DL/presentation_1.pdf)
+
+
 ## U-Net Architecture (Prediction Network)
 ![](plots/Unet_architecture.png)
 
@@ -10,7 +14,19 @@ Implementation using Keras x, TensorFlow 2.2.X, Python 3.x and Juypter Notebook.
 ## Training Data 
 ![](plots/montage_train.gif)
 
-## Predictions
+## Test Data: Predictions
 ![](plots/montage_test_epsilon015.gif)
 
 ![](plots/montage_test_epsilon01.gif)
+
+## Validation Data: Predictions
+![](plots/montage_cars_DL_masked.gif)
+
+## Validation Data: Predictions
+![](plots/montage_cars_epsilon015.gif)
+
+![](plots/montage_cars_epsilon010.gif)
+
+
+
+
