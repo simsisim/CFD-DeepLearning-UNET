@@ -1,0 +1,482 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{aragon2008turbulent}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AJL}{%
+         family={Arag{\'o}n},
+         familyi={A\bibinitperiod},
+         given={Jos{\'e}\bibnamedelima Luis},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NGG}{%
+         family={Naumis},
+         familyi={N\bibinitperiod},
+         given={Gerardo\bibnamedelima G},
+         giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bai},
+         familyi={B\bibinitperiod},
+         given={Ming},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Torres},
+         familyi={T\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MPK}{%
+         family={Maini},
+         familyi={M\bibinitperiod},
+         given={Philip\bibnamedelima K},
+         giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{AJL+1}
+    \strng{fullhash}{AJLNGGBMTMMPK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{3}
+    \field{pages}{275\bibrangedash 283}
+    \field{title}{Turbulent luminance in impassioned van Gogh paintings}
+    \field{volume}{30}
+    \field{journaltitle}{Journal of Mathematical Imaging and Vision}
+    \field{year}{2008}
+  \endentry
+
+  \entry{energyCascade}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{howpublished}{\url{https://en.wikipedia.org/wiki/Energy_cascade}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Energy Cascade}
+  \endentry
+
+  \entry{gatys2016image}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GLA}{%
+         family={Gatys},
+         familyi={G\bibinitperiod},
+         given={Leon\bibnamedelima A},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=EAS}{%
+         family={Ecker},
+         familyi={E\bibinitperiod},
+         given={Alexander\bibnamedelima S},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bethge},
+         familyi={B\bibinitperiod},
+         given={Matthias},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GLAEASBM1}
+    \strng{fullhash}{GLAEASBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{2414\bibrangedash 2423}
+    \field{title}{Image style transfer using convolutional neural networks}
+    \field{year}{2016}
+  \endentry
+
+  \entry{guo2016convolutional}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GX}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Xiaoxiao},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=IF}{%
+         family={Iorio},
+         familyi={I\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GXLWIF1}
+    \strng{fullhash}{GXLWIF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Proceedings of the 22nd ACM SIGKDD international
+  conference on knowledge discovery and data mining}
+    \field{pages}{481\bibrangedash 490}
+    \field{title}{Convolutional neural networks for steady flow approximation}
+    \field{year}{2016}
+  \endentry
+
+  \entry{he2016deep}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=HK}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Kaiming},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ZX}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Xiangyu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=RS}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Shaoqing},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HK+1}
+    \strng{fullhash}{HKZXRSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{Proceedings of the IEEE conference on computer vision and
+  pattern recognition}
+    \field{pages}{770\bibrangedash 778}
+    \field{title}{Deep residual learning for image recognition}
+    \field{year}{2016}
+  \endentry
+
+  \entry{hennighTrain}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+  \field{howpublished}{\url{https://drive.google.com/file/d/0BzsbU65NgrSuZDBMOW93OWpsMHM/view}}
+    \field{note}{Accessed: 2019-04-01}
+    \field{title}{Hennigh 0., 2019}
+  \endentry
+
+  \entry{hubel1959receptive}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HDH}{%
+         family={Hubel},
+         familyi={H\bibinitperiod},
+         given={David\bibnamedelima H},
+         giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=WTN}{%
+         family={Wiesel},
+         familyi={W\bibinitperiod},
+         given={Torsten\bibnamedelima N},
+         giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{HDHWTN1}
+    \strng{fullhash}{HDHWTN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1959}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{number}{3}
+    \field{pages}{574\bibrangedash 591}
+    \field{title}{Receptive fields of single neurones in the cat's striate
+  cortex}
+    \field{volume}{148}
+    \field{journaltitle}{The Journal of physiology}
+    \field{year}{1959}
+  \endentry
+
+  \entry{imageCatDog}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+  \field{howpublished}{\url{https://pixabay.com/photos/friends-cat-and-dog-cats-and-dogs-1149841/}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Image by Free-Photos from Pixabay}
+  \endentry
+
+  \entry{carSpeeding}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+  \field{howpublished}{\url{https://pixabay.com/photos/road-car-motion-vehicle-auto-1610959/}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Image by Free-Photos from Pixabay}
+  \endentry
+
+  \entry{windTurbines}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+  \field{howpublished}{\url{https://pixabay.com/photos/windmill-sky-moon-turbine-50512/}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Image by Free-Photos from Pixabay}
+  \endentry
+
+  \entry{airplaneWing}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+  \field{howpublished}{\url{https://pixabay.com/photos/plane-wing-flight-sky-clouds-841441/}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Image by Free-Photos from Pixabay}
+  \endentry
+
+  \entry{imageCats}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+  \field{howpublished}{\url{https://pixabay.com/photos/cat-animal-kitty-nature-pet-3699032/}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{Image by Kiu Trung from Pixabay}
+  \endentry
+
+  \entry{krizhevsky2012imagenet}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KA}{%
+         family={Krizhevsky},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HGE}{%
+         family={Hinton},
+         familyi={H\bibinitperiod},
+         given={Geoffrey\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KASIHGE1}
+    \strng{fullhash}{KASIHGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{1097\bibrangedash 1105}
+    \field{title}{Imagenet classification with deep convolutional neural
+  networks}
+    \field{volume}{25}
+    \field{journaltitle}{Advances in neural information processing systems}
+    \field{year}{2012}
+  \endentry
+
+  \entry{ribeiro2020deepcfd}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RMD}{%
+         family={Ribeiro},
+         familyi={R\bibinitperiod},
+         given={Mateus\bibnamedelima Dias},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rehman},
+         familyi={R\bibinitperiod},
+         given={Abdul},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Ahmed},
+         familyi={A\bibinitperiod},
+         given={Sheraz},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dengel},
+         familyi={D\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMD+1}
+    \strng{fullhash}{RMDRAASDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Deepcfd: Efficient steady-state laminar flow approximation
+  with deep convolutional neural networks}
+    \field{journaltitle}{arXiv preprint arXiv:2004.08826}
+    \field{year}{2020}
+  \endentry
+
+  \entry{ronneberger2015u}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RO}{%
+         family={Ronneberger},
+         familyi={R\bibinitperiod},
+         given={Olaf},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=FP}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Brox},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ROFPBT1}
+    \strng{fullhash}{ROFPBT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{International Conference on Medical image computing and
+  computer-assisted intervention}
+    \field{pages}{234\bibrangedash 241}
+    \field{title}{U-net: Convolutional networks for biomedical image
+  segmentation}
+    \field{year}{2015}
+  \endentry
+
+  \entry{taira2020modal}{article}{}
+    \name{author}{8}{}{%
+      {{hash=TK}{%
+         family={Taira},
+         familyi={T\bibinitperiod},
+         given={Kunihiko},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HMS}{%
+         family={Hemati},
+         familyi={H\bibinitperiod},
+         given={Maziar\bibnamedelima S},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=BSL}{%
+         family={Brunton},
+         familyi={B\bibinitperiod},
+         given={Steven\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Yiyang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Duraisamy},
+         familyi={D\bibinitperiod},
+         given={Karthik},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bagheri},
+         familyi={B\bibinitperiod},
+         given={Shervin},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DST}{%
+         family={Dawson},
+         familyi={D\bibinitperiod},
+         given={Scott\bibnamedelima TM},
+         giveni={S\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=YCA}{%
+         family={Yeh},
+         familyi={Y\bibinitperiod},
+         given={Chi-An},
+         giveni={C\bibinithyphendelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {American Institute of Aeronautics}%
+      {Astronautics}%
+    }
+    \strng{namehash}{TK+1}
+    \strng{fullhash}{TKHMSBSLSYDKBSDSTYCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{3}
+    \field{pages}{998\bibrangedash 1022}
+    \field{title}{Modal analysis of fluid flows: Applications and outlook}
+    \field{volume}{58}
+    \field{journaltitle}{AIAA journal}
+    \field{year}{2020}
+  \endentry
+
+  \entry{starryNight}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{howpublished}{\url{https://en.wikipedia.org/wiki/The_Starry_Night}}
+    \field{note}{Accessed: 2020-03-08}
+    \field{title}{The Starry Night by Vincent van Gogh}
+  \endentry
+\enddatalist
+\endinput
