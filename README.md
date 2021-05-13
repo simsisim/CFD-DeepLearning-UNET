@@ -3,8 +3,8 @@ This is a research code (not a production level software) inspired by: O Hennigh
 
 Implementation using Keras x, TensorFlow 2.2.X, Python 3.x and Juypter Notebook.
 
-## Presentation:
-![](report/v01_CFD-DeepNet/solvingEng_CFD+DL/presentation_1.pdf)
+## Presentation
+![](/report/v01_CFD-DeepNet/solvingEng_CFD+DL/presentation_1.pdf)
 
 
 ## U-Net Architecture (Prediction Network)
